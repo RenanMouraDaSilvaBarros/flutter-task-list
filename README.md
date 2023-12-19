@@ -4,6 +4,9 @@ Este é um aplicativo de lista de tarefas desenvolvido em Flutter, utilizando o 
 
 ![Demonstração](image.gif)
 
+![Demonstração](web.gif)
+
+
 ## Funcionalidades
 
 - Adicionar, editar e excluir tarefas.
