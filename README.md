@@ -1,6 +1,6 @@
 # Lista de Tarefas com Flutter e Provider 📝
 
-Este é um aplicativo de lista de tarefas desenvolvido em Flutter, utilizando o Provider como gerenciador de estado.
+Este é um aplicativo de lista de tarefas desenvolvido em Flutter, utilizando o Provider para gerenciar o estado.
 
 ![Demonstração](image.gif)
 
